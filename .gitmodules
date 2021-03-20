@@ -1,3 +1,0 @@
-[submodule "openocd"]
-	path = openocd
-	url = https://github.com/raspberrypi/openocd.git
