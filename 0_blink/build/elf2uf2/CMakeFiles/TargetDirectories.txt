@@ -1,0 +1,5 @@
+/Users/suresh/2021/Learn/rp2040-pico/0_blink/build/elf2uf2/CMakeFiles/rebuild_cache.dir
+/Users/suresh/2021/Learn/rp2040-pico/0_blink/build/elf2uf2/CMakeFiles/edit_cache.dir
+/Users/suresh/2021/Learn/rp2040-pico/0_blink/build/elf2uf2/CMakeFiles/elf2uf2.dir
+/Users/suresh/2021/Learn/rp2040-pico/0_blink/build/elf2uf2/boot_uf2_headers/CMakeFiles/rebuild_cache.dir
+/Users/suresh/2021/Learn/rp2040-pico/0_blink/build/elf2uf2/boot_uf2_headers/CMakeFiles/edit_cache.dir

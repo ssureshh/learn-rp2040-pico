@@ -20,11 +20,19 @@ $ export PATH="/usr/local/opt/texinfo/bin:$PATH"
 $ ./bootstrap
 $ ./configure --enable-picoprobe --disable-werror
 $ time make -j4
+$ sudo make install
 
-# add an alias or the source path to you shell rc file
-$ echo `alias openocd="/Users/suresh/2021/Learn/rp2040-pico/openocd/src/openocd"` >> ~/.zshrc
+restart the shell and try to flash
 ```
-
+- Build PicoProbe firmware
+```bash
+$ git clone https://github.com/raspberrypi/picoprobe.git
+$ cd picoprobe
+$ mkdir build
+$ cd build
+$ cmake ..
+$ make
+```
 
 ## Setup on Ubuntu/Debian based systems
 ```bash

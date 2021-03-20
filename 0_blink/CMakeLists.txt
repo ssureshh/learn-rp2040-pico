@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.12)
+include(pico_sdk_import.cmake)
+project(0_blink)
+add_executable(0_blink 0_blink.c)
+target_link_libraries(0_blink pico_stdlib)
+pico_sdk_init()
+pico_add_extra_outputs(0_blink)
